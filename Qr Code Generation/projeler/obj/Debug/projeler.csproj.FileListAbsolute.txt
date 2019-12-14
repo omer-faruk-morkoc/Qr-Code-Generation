@@ -1,0 +1,12 @@
+C:\Users\omer faruk morkoc\source\repos\projeler\projeler\obj\Debug\projeler.csprojAssemblyReference.cache
+C:\Users\omer faruk morkoc\source\repos\projeler\projeler\obj\Debug\projeler.Form1.resources
+C:\Users\omer faruk morkoc\source\repos\projeler\projeler\obj\Debug\projeler.Properties.Resources.resources
+C:\Users\omer faruk morkoc\source\repos\projeler\projeler\obj\Debug\projeler.csproj.GenerateResource.cache
+C:\Users\omer faruk morkoc\source\repos\projeler\projeler\obj\Debug\projeler.csproj.CoreCompileInputs.cache
+C:\Users\omer faruk morkoc\source\repos\projeler\projeler\bin\Debug\projeler.exe.config
+C:\Users\omer faruk morkoc\source\repos\projeler\projeler\bin\Debug\projeler.exe
+C:\Users\omer faruk morkoc\source\repos\projeler\projeler\bin\Debug\projeler.pdb
+C:\Users\omer faruk morkoc\source\repos\projeler\projeler\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\omer faruk morkoc\source\repos\projeler\projeler\obj\Debug\projeler.csproj.CopyComplete
+C:\Users\omer faruk morkoc\source\repos\projeler\projeler\obj\Debug\projeler.exe
+C:\Users\omer faruk morkoc\source\repos\projeler\projeler\obj\Debug\projeler.pdb
